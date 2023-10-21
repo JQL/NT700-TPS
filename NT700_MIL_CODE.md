@@ -42,17 +42,31 @@ The ECM doesn't save the previous fault codes in chronological order. Because of
 
 ## MIL blink codes for the NT
 1 MAP (Manifold Air Pressure) Sensor Voltage high or low
+
 2 MAP Sensor performance problem
+
 7 ECT (Engine Coolant Temperature) Sensor voltage high or low
+
 8 TP (Throttle Position) Sensor voltage high or low
+
 9 IAT (Inlet Air Temperature) Sensor voltage high or low
+
 11 VS (Vehicle Speed) sensor lost
+
 12 #1 injector malfunction. Will not start.
+
 13 #2 injector malfunction. Will not start.
+
 18 CMP (Cam Position) sensor lost. Will not start.
+
 19 CKP (Crank Position) sensor lost. Will not start.
+
 21 O2 sensor malfunction
+
 23 O2 sensor heater malfunction
+
 29 IACV (Idle Air Control Valve) malfunction (Engine stalls/ hard to start/ rough idle.... Faulty idle speed control valve.)
+
 32 Engine runs normally - Faulty ECM EEPROM
+
 
